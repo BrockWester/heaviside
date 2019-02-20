@@ -5,7 +5,7 @@ libraries for working with [AWS StepFunctions].
 ## Why
 The reason for a StepFunctions DSL is that the [state machine language], while
 flexible, is hard to write and maintain. The DSL provides a simplied format for
-writing StepFunction state machines and serveral of common flow control
+writing StepFunction state machines, and several common flow control
 statements.
 
 ## DSL
